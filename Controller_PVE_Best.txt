@@ -219,6 +219,61 @@ dimwishlist:item=3067821200&perks=3798852852,3796465595,3523296417,1275731761
 //--------------------------------------------------------------------------------
 
 
+// Wendigo GL3
+
+
+// Hush
+
+
+// Revoker
+
+
+// Drang (Baroque)
+
+
+// Austringer
+
+
+// CALUS Mini-Tool
+
+
+// Imperial Decree
+
+
+// The Epicurean
+
+
+// Beloved
+
+
+// Fixed Odds
+
+
+// Throne-Cleaver
+
+
+// Goldtusk
+
+
+// Death's Razor
+
+
+// Gunnora's Axe
+
+
+// Shining Sphere
+
+
+// Gahlran's Right Hand
+
+
+// Calusea Noblesse
+
+
+// Emperor's Courtesy
+
+
+// Bane of Sorrow
 
 
 //--------------------------------------------------------------------------------
@@ -226,6 +281,55 @@ dimwishlist:item=3067821200&perks=3798852852,3796465595,3523296417,1275731761
 //--------------------------------------------------------------------------------
 
 
+// Oxygen SR3
+
+
+// 21% Delirium
+
+
+// The Recluse
+
+
+// Service Revolver
+
+
+// Lonesome
+
+
+// Spare Rations
+
+
+// Bug-Out Bag
+
+
+// Gnawing Hunger
+
+
+// Outlast
+
+
+// Night Watch
+
+
+// Last Man Standing
+
+
+// Sole Survivor
+
+
+// Doomsday
+
+
+// Just in Case
+
+
+// Last Perdition
+
+
+// The Wizened Rebuke
+
+
+// Orewing's Maul
 
 
 //--------------------------------------------------------------------------------
@@ -233,6 +337,100 @@ dimwishlist:item=3067821200&perks=3798852852,3796465595,3523296417,1275731761
 //--------------------------------------------------------------------------------
 
 
+// Loaded Question
+
+
+// Breakneck
+
+
+// The Mountaintop
+
+
+// Kindled Orchid
+
+
+// The Ringing Nail
+
+
+// Blast Furnace
+
+
+// The Spiteful Fang
+
+
+// Tatara Gaze
+
+
+// Hammerhead
+
+
+// Stryker's Sure-Hand
+
+
+// Dead Man Walking XX7463
+
+
+// Bad News XF4354
+
+
+// Atalanta-D XG1992
+
+
+// Galliard-42 XN7568
+
+
+// Swift Ride XE8375
+
+
+// Tango-45 XK5094
+
+
+// Baligant XU7743
+
+
+// Show of Force XF4865
+
+
+// Acantha-D XK8434
+
+
+// Hoosegow XE5837
+
+
+// Nightshade
+
+
+// Persuader
+
+
+// Does Not Compute
+
+
+// Wishbringer
+
+
+// Crimil's Dagger
+
+
+// The Hero's Burden
+
+
+// No Feelings
+
+
+// Threat Level
+
+
+// Tempered Dynamo
+
+
+// Bellowing Giant
+
+
+// Avalanche
+
+
+// The Vow
 
 
 //--------------------------------------------------------------------------------
@@ -240,5 +438,257 @@ dimwishlist:item=3067821200&perks=3798852852,3796465595,3523296417,1275731761
 //--------------------------------------------------------------------------------
 
 
+// Luna's Howl
 
+
+// Not Forgotten
+
+
+// Smuggler's Word
+
+
+// Translation Theory
+
+
+// Duke Mk. 44
+
+
+// Ten Paces
+
+
+// Bad Reputation
+
+
+// Misfit
+
+
+// Go Figure
+
+
+// The Cut and Run
+
+
+// Arsenic Bite-4b
+
+
+// Subtle Calamity
+
+
+// Badlander
+
+
+// Edge Transit
+
+
+// Through Fire and Flood
+
+
+// Pribina-D
+
+
+// Antiope-D
+
+
+// Halfdan-D
+
+
+// Valakadyn
+
+
+// Eystein-D
+
+
+// Black Scorpion-4sr
+
+
+// Good Bone Structure
+
+
+// Erentil FR4
+
+
+// Proelium FR3
+
+
+// Elegy-49
+
+
+// Crooked Fang-4fr
+
+
+// Zenobia-D
+
+
+// Vestian Dynasty
+
+
+// Thin Line
+
+
+// Trackless Waste
+
+
+// Ether Doctor
+
+
+// Right Side of Wrong
+
+
+// Wrong Side of Right
+
+
+// Dust Rock Blues
+
+
+// Death by Scorn
+
+
+// No Turning Back
+
+
+// Terran Wind
+
+
+// Waking Vigil
+
+
+// Tigerspite
+
+
+// Vouchsafe
+
+
+// Retold Tale
+
+
+// Twilight Oath
+
+
+// Sleepless
+
+
+// Abide the Return
+
+
+// The Last Dance
+
+
+// Nameless Midnight
+
+
+// Toil and Trouble
+
+
+// Main Ingredient
+
+
+// Long Shadow
+
+
+// Outrageous Fortune
+
+
+// Trust
+
+
+// Pillager
+
+
+// Hazard of the Cast
+
+
+// Bygones
+
+
+// Distant Relation
+
+
+// Parcel of Stardust
+
+
+// Dreaded Venture
+
+
+// Bad Omens
+
+
+// Anonymous Autumn
+
+
+// Better Devils
+
+
+// Hard Truths
+
+
+// Redrix's Broadsword
+
+
+// Fate Cries Foul
+
+
+// Play of the Game
+
+
+// Steel Sybil Z-14
+
+
+// Breath of the Dragon
+
+
+// Claws of the Wolf
+
+
+// Talons of the Eagle
+
+
+// Bite of the Fox
+
+
+// Swarm of the Raven
+
+
+// Roar of the Bear
+
+
+// Warden's Law
+
+
+// Horror's Least
+
+
+// Mindbender's Ambition
+
+
+// The Long Goodbye
+
+
+// The Militia's Birthright
+
+
+// Nation of Beasts
+
+
+// Age-Old Bond
+
+
+// Chattering Bone
+
+
+// Transfiguration
+
+
+// Tyranny of Heaven
+
+
+// Techeun Force
+
+
+// The Supremacy
+
+
+// Apex Predator
+
+
+// Horror Story
 
